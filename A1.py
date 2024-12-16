@@ -1,0 +1,5 @@
+print ('Hello world!')
+print (4)
+print ('My name is \nJedidiah.')
+print ('My name is', end=' ')
+print ('Jedidiah')
